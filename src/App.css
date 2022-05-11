@@ -9,6 +9,7 @@ body {
   background-color: #050711;
 }
 
+
 .apexcharts-marker {
   fill: #18a29c !important;
 }
@@ -16,6 +17,7 @@ ul,
 nav {
   list-style: none;
 }
+
 .apexcharts-xaxistooltip.apexcharts-active,
 .apexcharts-tooltip-y-group > *:first-child,
 .apexcharts-tooltip-series-group.apexcharts-active .apexcharts-tooltip-marker {
@@ -52,9 +54,11 @@ nav {
 .second_chart .apexcharts-xcrosshairs.apexcharts-active {
   stroke: #803385 !important;
 }
+
 .second_chart .apexcharts-marker {
   fill: #803385 !important;
 }
+
 .chart_roudner {
   height: 245px !important;
 }

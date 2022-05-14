@@ -168,6 +168,7 @@ nav {
   font-weight: 500;
 }
 
+
 /* body_area */
 .MainPage .body_area {
   margin-top: 5rem;
@@ -248,6 +249,7 @@ nav {
 .MainPage .content_area_body .row_gender_division .value {
   color: #4cffa1;
   font-size: 15px;
+
 }
 .MainPage .content_area_body .right_area {
   display: flex;
@@ -284,6 +286,7 @@ nav {
 .MainPage .rows_wrapper {
   margin-top: 1rem;
 }
+
 .MainPage .rows_wrapper .row {
   display: grid;
   grid-template-columns: 1fr 1fr;

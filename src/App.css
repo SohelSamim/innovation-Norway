@@ -8,7 +8,7 @@ body {
   font-family: "Montserrat", sans-serif;
   background-color: #050711;
 }
-
+/* this is a comment */
 
 .apexcharts-marker {
   fill: #18a29c !important;
@@ -364,10 +364,8 @@ nav {
   padding: 1.5rem;
   font-weight: 500;
   text-align: center;
-
 }
-
-/* main oooo */
+/* main */
 .MainPage .left_area > * + * {
   margin-top: 1rem;
 }

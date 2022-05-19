@@ -47,6 +47,7 @@ nav {
 }
 .apexcharts-xaxis-texts-g > * + * {
   transform: translateX(-20px);
+  
 }
 .apexcharts-xaxis-texts-g > *:last-child {
   transform: translateX(-40px);
